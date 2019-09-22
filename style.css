@@ -52,17 +52,18 @@ kbd {
 
 .credit {
   position: relative;
-  bottom: 50px;
-  color: #fff;
+  bottom: 60px;
+  color: white;
   font-size: 2em;
   text-align: center;
+  font-weight: bold;
 }
 .credit .love{
   color: #f21f58;
 }
 .credit a {
   text-decoration: none;
-  color: #fff;
+  color: white;
 }
 a:hover {
   text-decoration: underline;
